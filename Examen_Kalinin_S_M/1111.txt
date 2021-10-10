@@ -1,0 +1,10 @@
+STEP AA                                      DD
+    AAAA                              IT    DDD
+   AA  AA       CCCC        AAAA            DDD     EEEE       MM     MM   YYY       YYY
+  AA    AA    CCCCCCCC    AAAAAAAA          DDD   EEEEEEEE    MMMM   MMMM   YYY     YYY
+ AAA    AAA  CCC    CCC  AAA    AAA    DDDDDDDD  EEE    EEE  MMM MM MM MMM   YYY   YYY
+ AAA    AAA  CCC         AAA    AAA  DDDDDDDDDD  EEEEE       MMM  MMM  MMM    YYY YYY
+ AAA    AAA  CCC         AAA    AAA  DDD    DDD  EEEEEE      MMM  MMM  MMM     YYYYY
+ AAAAAAAAAA  CCC    CCC  AAAAAAAAAA  DDD    DDD  EEE    EEE  MMM  MMM  MMM      YYY
+ AAAAAA AAA   CCCCCCCC   AAAAAA AAA  DDDDDDDDDD   EEEEEEEE   MMM  MMM  MMM      YYY
+ AAA    AAA     CCCC     AAA    AAA    DDDDDDDD     EEEE     MMM  MMM  MMM      YYY
